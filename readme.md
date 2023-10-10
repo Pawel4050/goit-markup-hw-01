@@ -1,1 +1,1 @@
-https://pawel4050.github.io/hw-01/
+https://pawel4050.github.io/goit-markup-hw-01/
